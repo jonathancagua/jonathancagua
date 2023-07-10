@@ -15,7 +15,7 @@
 [![My Latest Commit](https://github-readme-stats.vercel.app/api?username=jonathancagua&show_icons=true&theme=radical)](https://github.com/jonathancagua)
 
 ### Projects
-
+- Yocto testing on Raspberry Pi and NXP: [YOCTO](https://github.com/jonathancagua/YOCTO)
 - Linux Kernel Driver example on a Raspberry Pi: [IMD](https://github.com/jonathancagua/IMD)
 - Test Unit and Mocking with Ceedling:
   - [TDD-MOCK](https://github.com/jonathancagua/TDD-MOCK)
