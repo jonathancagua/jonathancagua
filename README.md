@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I am a Firmware Engineer with over 10 years of experience in embedded systems development.</h1>
+<h1 align="center">Hello! I am a Firmware Engineer with experience in embedded systems development.</h1>
 
 **Technical Skills:**
 - Firmware development in Python, C, and other languages.
